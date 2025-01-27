@@ -76,13 +76,3 @@ Refer to the documentation for setup instructions and project details.
 Disclaimer
 
 This is a legacy project developed during my early engineering studies in 2013. While functional, the code and design reflect the tools and knowledge available at the time.
-
-Contact
-
-Feel free to reach out with any questions or suggestions:
-
-Name: Emil Niclas Hofseth
-
-LinkedIn: Your LinkedIn Profile
-
-Thank you for checking out this project!
