@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=VOLTAGE SENSING RELAY
+*Date=18:37:43
+*CreatedBy=Fritzing 0.8.3b.07.27.048f
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;5.1k;THT;18.3734;-13.7204;0;Bottom;R3
+2;;;8.21339;-6.10036;0;Bottom;GND - START BAT.
+3;11k;THT;23.4534;-21.3404;-90;Bottom;R4
+4;;;38.6934;-31.5004;90;Bottom;Relay 86
+5;;300 mil [THT];8.21339;-17.5558;90;Bottom;D1
+6;;TO92 [THT];28.6223;-28.7699;-90;Bottom;Q1
+7;1k;THT;8.21339;-31.5004;90;Bottom;R1
+8;;;8.21338;-44.2004;0;Bottom;12V - START BAT.
+9;;DIP8 [THT];17.1034;-25.1504;0;Bottom;U1
+10;;;38.6934;-23.8804;90;Bottom;Relay 85 - GND
+11;1k;THT;23.4534;-34.0404;-90;Bottom;R5
