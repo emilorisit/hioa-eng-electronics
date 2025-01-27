@@ -16,7 +16,7 @@ Timers and Interrupts: Efficient handling of hardware timers for accurate pulse 
 
 Repository Structure
 
-HIOA-Electronics-Project/
+hioa-eng-electronics/
 ├── code/                         # Source code for Arduino
 │   ├── gpsknots/                 # GPS speed monitoring
 │   ├── fuelsensor_0_2/           # Fuel sensor integration
@@ -43,6 +43,7 @@ HIOA-Electronics-Project/
 │
 ├── README.md                     # Overview of the project (this file)
 └── LICENSE                       # License for the repository
+
 
 Technologies Used
 
