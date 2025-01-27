@@ -2,7 +2,7 @@ HIOA Electronics Project
 
 Overview
 
-This repository contains an electronics engineering project developed during my studies at OsloMet (formerly HIOA). The project focuses on designing and implementing a boat control system, showcasing skills in Arduino programming, hardware integration, and project management.
+This repository contains an electronics engineering project developed in 2013 during my studies at OsloMet (formerly HIOA). The project focuses on designing and implementing a boat control system, showcasing skills in Arduino programming, hardware integration, and project management.
 
 Project Features
 
@@ -16,7 +16,7 @@ Timers and Interrupts: Efficient handling of hardware timers for accurate pulse 
 
 Repository Structure
 
-hioa-eng-electronics/
+HIOA-Electronics-Project/
 ├── code/                         # Source code for Arduino
 │   ├── gpsknots/                 # GPS speed monitoring
 │   ├── fuelsensor_0_2/           # Fuel sensor integration
@@ -42,8 +42,6 @@ hioa-eng-electronics/
 │   └── auxiliary_control_system.pptx
 │
 ├── README.md                     # Overview of the project (this file)
-└── LICENSE                       # License for the repository
-
 
 Technologies Used
 
@@ -75,13 +73,9 @@ Navigate to the code folder for the desired feature (e.g., gpsknots) and upload 
 
 Refer to the documentation for setup instructions and project details.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Disclaimer
 
-This is a legacy project developed during my early engineering studies. While functional, the code and design reflect the tools and knowledge available at the time.
+This is a legacy project developed during my early engineering studies in 2013. While functional, the code and design reflect the tools and knowledge available at the time.
 
 Contact
 
@@ -89,6 +83,6 @@ Feel free to reach out with any questions or suggestions:
 
 Name: Emil Niclas Hofseth
 
-Email: 150952943+emilorisit@users.noreply.github.com
+LinkedIn: Your LinkedIn Profile
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/emilniclas/)
+Thank you for checking out this project!
