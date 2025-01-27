@@ -88,6 +88,6 @@ Feel free to reach out with any questions or suggestions:
 
 Name: Emil Niclas Hofseth
 
-Email: 
+Email: 150952943+emilorisit@users.noreply.github.com
 
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/emilniclas/)
