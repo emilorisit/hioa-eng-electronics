@@ -2,7 +2,7 @@ HIOA Electronics Project
 
 Overview
 
-This repository contains an electronics engineering project developed in 2013 during my studies at OsloMet (formerly HIOA). The project focuses on designing and implementing a boat control system, showcasing skills in PCB design, electrical engineering, Arduino programming, hardware integration, and project management.
+This repository contains an electronics engineering project developed in 2013 during my studies at OsloMet (formerly HIOA). The project focuses on designing and implementing a boat control system, showcasing skills in PCB design, electrical engineering, Arduino programming, Android development, hardware integration, and project management.
 
 Project Features
 
@@ -21,6 +21,9 @@ Timers and Interrupts: Efficient handling of hardware timers for accurate pulse 
 Repository Structure
 
 HIOA-Electronics-Project/
+├── android/                     # Android application source code
+│   └── BoatControlActivity.java  # Android app for boat control system
+│
 ├── code/                         # Source code for Arduino
 │   ├── gpsknots/                 # GPS speed monitoring
 │   ├── fuelsensor_0_2/           # Fuel sensor integration
@@ -59,16 +62,14 @@ Eagle CAD: PCB design and schematics.
 
 Fritzing: Circuit visualization.
 
+Android Development: Java-based Android application for boat system monitoring.
+
 Highlights
 
-Comprehensive Engineering Work: Includes PCB design, electrical engineering, and software integration for a functional control system.
+Comprehensive Engineering Work: Includes PCB design, electrical engineering, Android development, and software integration for a functional control system.
 
 Real-Time Data Processing: Accurate GPS data parsing and fuel monitoring.
 
 Hardware and Software Integration: Seamless communication between sensors, microcontrollers, and Android devices.
 
 Project Documentation: Comprehensive reports and planning materials for effective project management.
-
-Disclaimer
-
-This is a legacy project developed during my early engineering studies in 2013. While functional, the code and design reflect the tools and knowledge available at the time.
