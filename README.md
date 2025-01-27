@@ -2,9 +2,13 @@ HIOA Electronics Project
 
 Overview
 
-This repository contains an electronics engineering project developed in 2013 during my studies at OsloMet (formerly HIOA). The project focuses on designing and implementing a boat control system, showcasing skills in Arduino programming, hardware integration, and project management.
+This repository contains an electronics engineering project developed in 2013 during my studies at OsloMet (formerly HIOA). The project focuses on designing and implementing a boat control system, showcasing skills in PCB design, electrical engineering, Arduino programming, hardware integration, and project management.
 
 Project Features
+
+PCB Design: Custom-designed printed circuit boards (PCBs) created using Eagle CAD, showcasing hands-on electrical engineering skills.
+
+Electrical System Design: Complete design and integration of electrical circuits for reliable system performance.
 
 GPS Integration: Real-time speed calculation in knots using the TinyGPS++ library.
 
@@ -57,21 +61,13 @@ Fritzing: Circuit visualization.
 
 Highlights
 
+Comprehensive Engineering Work: Includes PCB design, electrical engineering, and software integration for a functional control system.
+
 Real-Time Data Processing: Accurate GPS data parsing and fuel monitoring.
 
 Hardware and Software Integration: Seamless communication between sensors, microcontrollers, and Android devices.
 
 Project Documentation: Comprehensive reports and planning materials for effective project management.
-
-Usage
-
-Clone the repository:
-
-git clone https://github.com/yourusername/hioa-eng-electronics.git
-
-Navigate to the code folder for the desired feature (e.g., gpsknots) and upload the .ino file to an Arduino-compatible microcontroller.
-
-Refer to the documentation for setup instructions and project details.
 
 Disclaimer
 
